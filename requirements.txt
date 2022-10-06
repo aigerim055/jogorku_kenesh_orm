@@ -1,0 +1,11 @@
+# parsing
+beautifulsoup4
+requests
+lxml
+# work with db
+# work with pstgres
+psycopg2-binary
+# orm 
+peewee
+# for .env
+python-decouple
